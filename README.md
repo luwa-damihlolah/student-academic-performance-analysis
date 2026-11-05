@@ -50,17 +50,11 @@ The separate Excel analysis workbook was not included in the supplied project fi
 ## Limitations
 The analysis covers 100 records from the supplied dataset. It is descriptive and does not establish causal relationships. Results should be interpreted within the scope of this dataset.
 
-## Repository structure
-```text
-01_Dataset/                  Raw student dataset
-02_PowerBI/                  Power BI report (.pbix)
-03_Dashboard_Screenshots/    Dashboard image
-04_Documentation/            Project report and original notes
-```
+## Files Included
 
-## Files
-- `01_Dataset/Student_Academic_Performance_Raw_Dataset.xlsx`
-- `02_PowerBI/Student_Performance_Analysis.pbix`
-- `03_Dashboard_Screenshots/Student_Performance_Dashboard.png`
-- `04_Documentation/Student_Academic_Performance_Project_Report.docx`
-
+- **Student_Academic_Performance_Raw_Dataset.xlsx** – The practice dataset used for the analysis.
+- **Student_Performance_Analysis.pbix** – The Power BI report containing the analysis and dashboard.
+- **Student_Performance_Dashboard.png** – A screenshot of the completed dashboard.
+- **Student_Academic_Performance_Project_Report.docx** – The project report documenting the analysis and findings.
+- **Original_Project_Notes.docx** – The original project notes.
+- **README.md** – Project overview, objectives, tools, and key findings.
