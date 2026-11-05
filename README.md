@@ -56,7 +56,6 @@ The analysis covers 100 records from the supplied dataset. It is descriptive and
 02_PowerBI/                  Power BI report (.pbix)
 03_Dashboard_Screenshots/    Dashboard image
 04_Documentation/            Project report and original notes
-05_LinkedIn/                 LinkedIn project announcement
 ```
 
 ## Files
@@ -65,5 +64,3 @@ The analysis covers 100 records from the supplied dataset. It is descriptive and
 - `03_Dashboard_Screenshots/Student_Performance_Dashboard.png`
 - `04_Documentation/Student_Academic_Performance_Project_Report.docx`
 
----
-*Prepared as a portfolio case study. Update this README if you later add the Excel analysis workbook or make changes to the Power BI report.*
