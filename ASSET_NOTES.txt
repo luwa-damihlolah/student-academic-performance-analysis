@@ -1,7 +1,0 @@
-# Project 1 asset notes
-
-- Raw dataset, Power BI file and dashboard screenshot were supplied by the project owner.
-- Original project notes were supplied as a Word document.
-- The separate Excel analysis workbook was not supplied.
-- The project report and README use verified summary statistics calculated from the supplied dataset.
-- Before making the repository public, review the dataset for any privacy, licensing or sharing restrictions.
